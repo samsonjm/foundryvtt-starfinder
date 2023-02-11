@@ -34,7 +34,7 @@
     },
     "attackBonus": 0,
     "chatFlavor": "",
-    "concentration": false,
+    "concentration": true,
     "critical": {
       "effect": "",
       "parts": []
